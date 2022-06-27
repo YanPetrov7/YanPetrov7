@@ -2,7 +2,7 @@
 <code>🎪 Group: IM-12</code>
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 Current [project](PROJECT.md)</code><br>
+<code>🧻 Current [project](https://github.com/YanPetrov7/CardGameBunker)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@YanPetrov7](https://telegram.me/YanPetrov7)</code>
