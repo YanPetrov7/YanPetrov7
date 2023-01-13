@@ -36,7 +36,7 @@
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟩 Procedural programming      | 🟩 constructor        | 🟩 struct, record    | 🟦 Singleton             |
+| 🟩 Procedural programming      | 🟩 constructor        | 🟩 struct, record    | 🟩 Singleton             |
 | 🟩 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
 | 🟩 Structured programming      | 🟩 Static method      | ⬜ Immutable state   |                          |
 | 🟩 Non-structured programming  | 🟩 Method             | 🟩 Enum              |                          |
@@ -71,12 +71,12 @@
 | 🟩 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟩 Promise.race          |
 | 🟩 Thenable            | 🟦 Atomics                     | ⬜ kqueue           | 🟦 Promise.any           |
 | 🟩 EventEmitter        | 🟦 Blockeing operations        | ⬜ Completion ports | ⬜ Web Locks API         |
-| ⬜ Cancelable callback | 🟦 Non-blocking loop for Array | ⬜ Event ports      | 🟩 Async Pool            |
-| ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟦 libuv            | ⬜ Thread Pool           |
-| 🟩 Asynchronous Queue  | 🟩 Callback hell               | 🟩 Race conditions  | 🟦 callbackify           |
-| ⬜ Future              | 🟩 Promise hell                | 🟦 Dead locks       | 🟦 promisify             |
+| 🟩 Cancelable callback | 🟦 Non-blocking loop for Array | ⬜ Event ports      | 🟩 Async Pool            |
+| 🟩 Cancelable Promise  | ⬜ High resolution clock       | 🟦 libuv            | ⬜ Thread Pool           |
+| 🟩 Asynchronous Queue  | 🟩 Callback hell               | 🟩 Race conditions  | 🟩 callbackify           |
+| ⬜ Future              | 🟩 Promise hell                | 🟦 Dead locks       | 🟩 promisify             |
 | ⬜ Deferred            |                                | 🟦 Live locks       | ⬜ IPC                   |
-| 🟦 Observer            |                                | ⬜ Actor Model      | ⬜ Channel API           |
+| 🟦 Observer            |                                | 🟩 Actor Model      | ⬜ Channel API           |
 | 🟩 Async Collector     |                                |                     | ⬜ Revealing Constructor |
 | ⬜ Coroutine           |                                |                     |                          |
 | ⬜ Goroutine           |                                |                     |                          |
@@ -99,7 +99,7 @@
 | 🟦 vm isolation      | ⬜ Highload applications     | 🟩 IP sticky      | 🟩 Quality       |                      |
 | 🟦 command line args | 🟦 DDD                       | 🟦 DoS            | 🟦 Availability  |                      |
 | ⬜ Node.js CLI       | 🟦 Clean architecture        | 🟩 DDoS           | 🟦 Flexibility   |                      |
-| 🟦 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
+| 🟩 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
 | 🟦 Clustering        | 🟦 Message Queue             | 🟩 Path traversal |                  |                      |
 | ⬜ Load balancing    | 🟦 Transport-agnostic server | 🟦 CSRF           |                  |                      |
 | ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟦 DNS            |                  |                      |
@@ -107,5 +107,5 @@
 | 🟩 Debugging node.js | ⬜ Real-time applications    | 🟦 zlib           |                  |                      |
 | 🟦 crypto            | 🟦 CQS and CQRS              |                   |                  |                      |
 | ⬜ SharedArrayBuffer | 🟦 Event Sourcing            |                   |                  |                      |
-| 🟦 child_process     | 🟦 Shared memory             |                   |                  |                      |
+| 🟩 child_process     | 🟩 Shared memory             |                   |                  |                      |
 | 🟦 worker_threads    |                              |                   |                  |                      |
