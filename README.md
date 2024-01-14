@@ -3,6 +3,12 @@
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](https://github.com/YanPetrov7/DB_REST_API)</code>
+<code>🧑‍💻 Languages: JavaScript, TypeScript</code>
+<code>📢 Public [talks: 0](TALKS.md)</code>
+<code>💬 telegram: [@YanPetrov7](https://telegram.me/YanPetrov7)</code>
+<code>📫 email: yanemerald2004@gmail.com</code>
+
+###
 
 <div align="center"> 
   <a href="mailto:yanemerald2004@gmail.com">
@@ -16,14 +22,15 @@
   </a>
 </div>
 
-<h2 align="center">Programming Languages & Technologies</h2>
+###
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mysql,mongodb,docker,git" /><br>
 </div>
 
-<h2 align="center">Stats</h2>
-<div align="center">
-  <img height="200" style="object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=yanpetrov7&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img height="200" style="object-fit: cover; margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanpetrov7&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+###
 
+<div align="center">
+  <img height="150" style="object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=yanpetrov7&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height="150" style="object-fit: cover; margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanpetrov7&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
